@@ -1,3 +1,23 @@
-p {
-  background-color: teal;
+h2 {
+  margin-top: 25px;
+}
+
+h1 {
+    background-color: teal;
+    width: 50%;
+   /*border: black 1px solid;*/
+   border-color: black;
+   /*border-width: 6em;*/
+   border-top: 3px;
+   border-bottom: 4px;
+   border-left: 2rem;
+   border-right: 3px;
+   border-style: solid;
+
+   /*padding: top, right, bottom, left;
+   padding: top & bottom, left & right;
+   padding: all;*/
+
+   padding: 10px 15px 10px 20px;
+   margin: 5px;
 }
